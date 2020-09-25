@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "Categories"  
-    url: /categories/	    
-  - title: "Tags"
-    url: /tags/
-  - title: "About"	 
-    url: /about/	
-  - title: "윤동주"
-    url: /categories/윤동주/
+  - title: "Project"  
+    url: /project	    
+  - title: "Algorithm"
+    url: /algorithm
+  - title: "Lanuage"	 
+    url: /tags
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
